@@ -63,5 +63,5 @@ The application is split into two main components:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
-   cd your-repository-name
+   git clone https://github.com/aarya1505/ai-chatbot-content-assistant-.git
+   cd ai-chatbot-content-assistant-
